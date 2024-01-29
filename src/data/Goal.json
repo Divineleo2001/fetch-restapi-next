@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "product_details": {
+      "category": "Electronics - Tablets",
+      "name": "ipad"
+    },
+    "price_data": {
+      "price": 1000,
+      "salePrice": 500
+    },
+    "id": 2,
+    "product_details": {
+      "category": "Electronics - Gaming",
+      "name": "PS5"
+    },
+    "price_data": {
+      "price": 500,
+      "salePrice": 100
+    }
+  }
+]
